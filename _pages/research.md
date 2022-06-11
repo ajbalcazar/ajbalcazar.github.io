@@ -23,5 +23,5 @@ In examining the Hispanic health paradox, researchers rarely determine if the pa
 
 Balcazar, A. J., Grineski, S. E., & Collins, T. W. (2015). The Hispanic health paradox across generations: the relationship of child generational status and citizenship with health outcomes. Public health. 129(6), 691-697.
 
-[Balcazar_2015_PublicHealth.pdf]:{{ site.baseurl }}{% link assets/Balcazar_2015_PublicHealth.pdf %}
+[Balcazar_2015_PublicHealth]:{{ site.baseurl }}{% link assets/Balcazar_2015_PublicHealth.pdf %}
 
