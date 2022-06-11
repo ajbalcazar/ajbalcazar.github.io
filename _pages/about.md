@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome To My Portfolio Website"
+title: "Spatial Analysis"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Master of Public Administration program at the University of Texas at Arlington. I'll be graduating in December 2022. 
+Map 1 
+image
+description 
 
+Map 2
+image
+description 
 
 
