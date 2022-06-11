@@ -14,8 +14,5 @@ The following map displays the spatial distribution of non-taxable properties in
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/NonTaxPropertiesStats.JPG)
 
 
-Map 2
-image
-description 
 
 
