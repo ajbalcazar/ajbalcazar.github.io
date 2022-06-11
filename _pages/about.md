@@ -13,6 +13,14 @@ The following map displays the spatial distribution of non-taxable properties in
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/NonTaxPropertiesStats.JPG)
 
+### Median Income - 2010 to 2019 Cities Comparable to Garland, TX
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/2010income.JPG)
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/2019income.JPG)
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/incomechart.JPG)
+
 
 
 
