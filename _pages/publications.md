@@ -2,11 +2,11 @@
 title: 
 layout: single
 classes: wide
-permalink: /research/
+permalink: /publications/
 ---
 <br/> 
 
 
-# <center> Publication </center>
+# <center> Publications </center>
 
 Article 1
