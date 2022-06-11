@@ -239,6 +239,9 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
+minima:
+  skin: air
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
