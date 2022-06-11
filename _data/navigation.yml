@@ -1,7 +1,7 @@
 # main links links
-main:
-  - title: "Spatial Analysis"
-    url: /maps/
+ main:
+  - title: "Bio"
+    url: /bio/
 
   - title: "Publications"
     url: /publications/    
