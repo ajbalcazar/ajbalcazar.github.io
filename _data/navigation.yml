@@ -1,14 +1,9 @@
 # main links links
 main:
-  - title: "Maps"
-    url: /publications/
+  - title: "Spatial Analysis"
+    url: /maps/
 
   - title: "Publications"
     url: /publications/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
