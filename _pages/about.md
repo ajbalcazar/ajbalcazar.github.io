@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Master of Public Administration program at the University of Texas at Arlington. I'll graduating in December 2022. 
+I am a graduate student in the Master of Public Administration program at the University of Texas at Arlington. I'll be graduating in December 2022. 
 
 
 
