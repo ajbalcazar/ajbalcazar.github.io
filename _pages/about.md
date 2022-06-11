@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Spatial Analysis"
+title: "Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#City of Garland - Economic Development Deparments 
+City of Garland - Economic Development Department
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/NonTaxPropertiesStats.JPG)
 
