@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Map 1 
-image
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/NonTaxPropertiesStats.JPG)
 description 
 
 Map 2
