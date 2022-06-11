@@ -10,4 +10,4 @@ permalink: /maps/
 # <center> Spatial Analysis </center>
 - - -
 
-![Non-Taxable Properties in the City of Garland, TX]("NonTaxPropertiesStats.JPG")
+</center> ![Non-Taxable Properties in the City of Garland, TX]("NonTaxPropertiesStats.JPG") </center>
