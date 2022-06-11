@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Map 1 
+#City of Garland - Economic Development Deparments 
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/NonTaxPropertiesStats.JPG)
 
