@@ -10,7 +10,7 @@ permalink: /research/
 # <center> Research </center>
 - - -
 
-## The durability of immigration-related barriers to health care access for Hispanics across generations
+## The durability of immigration-related barriers to health care access for Hispanics across generations [Pdf][Balcazar_2015_HJBS] ]
 
 Conventional manners of operationalizing generational status in studies of health care access in the United States implicitly assume that individuals assimilate into U.S. culture by the 3rd generation. This limits understandings of immigrant health care access as it remains unknown if disparities persist beyond the 3rd generation. Survey data from caretakers of Hispanic schoolchildren in El Paso (Texas, USA; n = 1,568) were utilized in generalized linear models to analyze relationships between immigrant generational status and access to health care. Results showed that higher immigrant generations had better access to care. The greatest disparities between consecutive generational groups occurred between 1st generation noncitizens/naturalized citizens, the 2.5/3rd generations, and the 3rd/4th generations. Results reveal greater durability of barriers in access to health care than has previously been documented.
 
