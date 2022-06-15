@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### Non-Taxable Properties - Garland, TX
 
-The following map displays the spatial distribution of non-taxable properties in the City of Garland, TX. The director of the Economic Development Department wanted to know the number of properties and total acres of non-taxable land. The director also wanted the total number of developable acres (non-flood plane) of non-taxable properties. This analysis required an overlay of a flood plane layer and creating new fields to calculate developable acres. 
+The following map displays the spatial distribution of non-taxable properties in the City of Garland, TX. The director of the Economic Development Department wanted to know the number of properties and total acres of non-taxable land in Garland. The director also wanted the total number of developable acres (non-flood plane) of non-taxable properties. This analysis required an overlay of a flood plane layer and creating new fields to calculate developable acres. This analysis revealed that there are 1,595 non-taxable properties. These properties amount to 4,286 acres of developable land. This analysis will assist the Economic Development Deparment to identify properties that could be suitable for redevelopment.
 
 Data: Dallas County Appraisal District
 
