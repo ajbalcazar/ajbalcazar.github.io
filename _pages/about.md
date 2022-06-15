@@ -15,9 +15,21 @@ Data: Dallas County Appraisal District
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/NonTaxPropertiesStats.JPG)
 
+### Race/Ethnicity Across the City of Garland
+
+Data: American Community Survey 5 Year Estimates (US Census)
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/PercHisp.png)
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/PercWhite.png)
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/PercBlack.png)
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/PercAsian.png)
+
 ### Median Income - 2010 to 2019 Cities Comparable to Garland, TX
 
-Data: American Community Survey (US Census)
+Data: American Community Survey 5 Year Estimates (US Census)
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/2010income.png)
 
