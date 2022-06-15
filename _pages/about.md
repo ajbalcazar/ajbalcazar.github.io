@@ -43,7 +43,7 @@ Data: American Community Survey 5-Year Tract Level Estimates (US Census)
 
 Data: American Community Survey 5-Year Tract Level Estimates (US Census)
 
-
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/ManuHou.png)
 
 ### Median Income - 2010 to 2019 Cities Comparable to Garland, TX
 
