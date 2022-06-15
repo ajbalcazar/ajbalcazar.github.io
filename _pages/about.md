@@ -31,7 +31,7 @@ Data: American Community Survey 5-Year Tract Level Estimates (US Census)
 
 Data: American Community Survey 5-Year Block Group Level Estimates (US Census)
 
-![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/25PlusNoHS.png)
+
 
 ### Rental Housing Costs - Garland, TX
 
