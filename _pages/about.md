@@ -17,7 +17,7 @@ Data: Dallas County Appraisal District
 
 ### Race/Ethnicity Across North Texas (Garland, TX highlighted)
 
-Data: American Community Survey 5-Year Estimates (US Census)
+Data: American Community Survey 5-Year Tract Level Estimates (US Census)
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/PercHisp.png)
 
@@ -29,25 +29,25 @@ Data: American Community Survey 5-Year Estimates (US Census)
 
 ### Education Gap - Garland, TX
 
-Data: American Community Survey 5-Year Estimates (US Census)
+Data: American Community Survey 5-Year Block Group Level Estimates (US Census)
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/25PlusNoHS.png)
 
 ### Rental Housing Costs - Garland, TX
 
-Data: American Community Survey 5-Year Estimates (US Census)
+Data: American Community Survey 5-Year Tract Level Estimates (US Census)
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/Rent2019.png)
 
 ### Manufacturing Labor Force & Affordable Housing - Garland, TX
 
-Data: American Community Survey 5-Year Estimates (US Census)
+Data: American Community Survey 5-Year Tract Level Estimates (US Census)
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/ManuHou.png)
 
 ### Median Income - 2010 to 2019 Cities Comparable to Garland, TX
 
-Data: American Community Survey 5-Year Estimates (US Census)
+Data: American Community Survey 5-Year Tract Level Estimates (US Census)
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/2010income.png)
 
