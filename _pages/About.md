@@ -2,7 +2,7 @@
 title: 
 layout: single
 classes: wide
-permalink: /About/
+permalink: /about/
 ---
 <br/> 
 
