@@ -15,7 +15,7 @@ Data: Dallas County Appraisal District
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/NonTaxPropertiesStats.JPG)
 
-### Race/Ethnicity Across North Texas
+### Race/Ethnicity Across North Texas (City of Garland, TX highlighted)
 
 Data: American Community Survey 5 Year Estimates (US Census)
 
