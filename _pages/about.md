@@ -27,6 +27,17 @@ Data: American Community Survey 5 Year Estimates (US Census)
 
 ![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/PercAsian.png)
 
+### Education Gap Across the City of Garland, TX
+Data: American Community Survey 5 Year Estimates (US Census)
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/25PlusNoHS.png)
+
+### Rental Housing Costs Across the City of Garland, TX
+
+Data: American Community Survey 5 Year Estimates (US Census)
+
+![useful image]({{ [site.url](https://ajbalcazar.github.io) }}/assets/Rent2019.png)
+
 ### Median Income - 2010 to 2019 Cities Comparable to Garland, TX
 
 Data: American Community Survey 5 Year Estimates (US Census)
