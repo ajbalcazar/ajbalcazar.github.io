@@ -14,4 +14,4 @@ permalink: /tableau/
 
 ![useful image]({{ site.url }}/assets/electedwomen.png)
 
-There are twice as many women serving in elected roles at the state and federal levels in the Democratic Party as compared to the Republican Party.  
+There are twice as many women serving in elected roles at the state and federal levels in the Democratic Party as compared to the Republican Party. Out of 100 U.S. Senators, 24 are women.   
