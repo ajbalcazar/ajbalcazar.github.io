@@ -3,12 +3,14 @@ main:
 
   - title: "Research"
     url: /research/   
+   
+  - title: "Tableau"
+    url: /tableau/  
     
   - title: "About"
     url: /About/  
     
-  - title: "Tableau"
-    url: /tableau/  
+ 
  
 
 
