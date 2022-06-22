@@ -6,6 +6,9 @@ main:
     
   - title: "About"
     url: /About/  
+    
+  - title: "Tableau"
+    url: /Tableau/  
  
 
 
