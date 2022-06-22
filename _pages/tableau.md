@@ -11,3 +11,7 @@ permalink: /tableau/
 - - -
 
 [Tableau Public](https://public.tableau.com/app/profile/alex.balcazar)
+
+![useful image]({{ site.url }}/assets/PercAsian.png)
+
+There are twice as many women serving in elected roles at the State and Federal levels in the Democratic party as compared to the Republic Party.  
