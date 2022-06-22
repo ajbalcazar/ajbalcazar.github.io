@@ -7,7 +7,7 @@ permalink: /tableau/
 <br/> 
 
 
-# <center> Tableau </center>
+# <center> Tableau Portfolio </center>
 - - -
 
-Tableau Dashboard
+[Tableau Public](https://public.tableau.com/app/profile/alex.balcazar)
