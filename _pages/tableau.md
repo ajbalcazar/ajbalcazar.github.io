@@ -14,4 +14,4 @@ permalink: /tableau/
 
 ![useful image]({{ site.url }}/assets/electedwomen.png)
 
-There are twice as many women serving in elected roles at the State and Federal levels in the Democratic party as compared to the Republic Party.  
+There are twice as many women serving in elected roles at the state and federal levels in the Democratic Party as compared to the Republican Party.  
