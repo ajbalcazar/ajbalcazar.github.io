@@ -10,6 +10,6 @@ permalink: /About/
 
 Hi I'm Alex Balcazar, and I will be graduating in December 2022 with a Master of Public Administration, with a focus in Public Policy & Analysis, from the University of Texas at Arlington. 
 
-I currently work as a Senior Consultant at the Baha'i International Development Organization, and as a Data Analyst Intern at the City of Garland, TX Economic Development Department. 
+I currently work as the National Equity Atlas Data Analyst at USC Equity Research Institute. Learn more at: https://nationalequityatlas.org
 
 If you would like to contact me, please send me an email at ajbalcazar@gmail.com
