@@ -8,6 +8,8 @@ permalink: /About/
 
 - - -
 
-I am a Data Analyst part of the National Equity Atlas team at the USC Equity Research Institute. Learn more at: https://dornsife.usc.edu/eri
+I am a Data Analyst part of the [National Equity Atlas](https://nationalequityatlas.org/about/staff/alex-balcazar)) team at the [USC Equity Research Institute)([https:// ](https://dornsife.usc.edu/eri/).
 
 If you would like to contact me, please send me an email at ajbalcazar@gmail.com
+
+[Tableau Public](https://public.tableau.com/app/profile/alex.balcazar)
